@@ -1,6 +1,6 @@
-# homepath-site
+# housepath-site
 
-Static marketing + privacy site for **HomePath** (homepath.co.uk), the UK mortgage toolkit app by 1707 Ltd.
+Static marketing + privacy site for **HousePath** (housepath.co.uk), the UK mortgage toolkit app by 1707 Ltd.
 
 No build step — plain HTML/CSS/JS, deployed to **Cloudflare Pages**.
 

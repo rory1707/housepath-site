@@ -1,4 +1,4 @@
-# robots.txt for homepath.co.uk
+# robots.txt for housepath.co.uk
 # All crawlers welcome, including AI crawlers.
 
 User-agent: *
@@ -13,4 +13,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://homepath.co.uk/sitemap.xml
+Sitemap: https://housepath.co.uk/sitemap.xml
