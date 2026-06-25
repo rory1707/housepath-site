@@ -1,0 +1,13 @@
+# HomePath
+
+> HomePath is your complete UK mortgage toolkit — an iOS app by 1707 Ltd that helps you browse mortgage rates, check affordability, calculate stamp duty, and plan the full cost of moving home in the UK.
+
+## Pages
+
+- [Home](https://homepath.co.uk/): Landing page introducing HomePath and its tools (rate browser, affordability calculator, stamp duty calculator, move budget planner), with a link to download on the App Store.
+- [Privacy Policy](https://homepath.co.uk/privacy/): How HomePath handles data — what is and isn't collected, third-party services (Google AdMob, Apple StoreKit), data storage and retention, GDPR rights, and contact details.
+
+## Contact
+
+- Email: rory@1707.co.uk
+- Publisher: 1707 Ltd
