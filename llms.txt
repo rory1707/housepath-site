@@ -5,6 +5,7 @@
 ## Pages
 
 - [Home](https://housepath.co.uk/): Landing page introducing HousePath and its tools (rate browser, affordability calculator, stamp duty calculator, move budget planner), with a link to download on the App Store.
+- [Support](https://housepath.co.uk/support/): Help and contact page — how to get in touch (admin@1707.co.uk) plus FAQs covering removing ads via in-app purchase, where mortgage rate data comes from (MSE and Which? best-buy tables), and the note that HousePath is an information tool, not financial advice.
 - [Privacy Policy](https://housepath.co.uk/privacy/): How HousePath handles data — what is and isn't collected, third-party services (Google AdMob, Apple StoreKit), data storage and retention, GDPR rights, and contact details.
 
 ## Contact
